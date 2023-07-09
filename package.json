@@ -1,6 +1,6 @@
 {
   "name": "dtg-format",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "📆 Convert date to DTG",
   "license": "MIT",
   "author": "Conner Bachmann <github@conner-bachmann.de>",
